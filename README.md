@@ -1,7 +1,7 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
-<H3>Experiment No. 2 </H3>
+<H3>Name</H3> Anubharathi SS
+<H3>Register no.</H3> 212223040017
+<H3>Date</H3> 15.09.2024
+<H3>Experiment No. 2 </H3> 02
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
